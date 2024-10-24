@@ -7,6 +7,7 @@ os.system("clss || clear")
 # fix = corrigir
 # feature = criar  
 # git merge = juntar
+# git commit --amend -m = trocar nome do commit
 
 
 print("Adicionando funcionalidade: função inss.")
