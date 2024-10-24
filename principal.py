@@ -5,6 +5,7 @@ os.system("clss || clear")
 # git checkout -b
 # fix = corrigir
 # feature = criar  
+# git merge 
 
 print("Adicionando funcionalidade: função inss.")
 
